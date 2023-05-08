@@ -1,2 +1,6 @@
-# proyectos_javascript
-subir programas
+
+## ejemplo Teoría
+
+![hola](hola.png "hola")
+![aa](aa.png "aa")
+
